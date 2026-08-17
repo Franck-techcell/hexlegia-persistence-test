@@ -1,0 +1,3 @@
+HEXLEGIA_GITHUB_WRITE_TEST
+Date du test : 2026-08-17
+Objectif : vérifier l'accès en écriture de Vibe à GitHub.
